@@ -8,7 +8,7 @@ print(type(array1))
 for x in array1:
     print(x)
     
-
+    
 # i = 0
 # while i < len(array1):
 #     print(array1[i], end = "\t")

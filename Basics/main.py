@@ -1,0 +1,3 @@
+import moid
+
+moid.welcome()

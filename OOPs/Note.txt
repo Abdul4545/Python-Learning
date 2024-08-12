@@ -1,0 +1,16 @@
+Class
+Objects
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
+
+What is Class
+a class is a blueprint for creating objects (instances). A class defines a set of attributes and methods that the objects created from the class will have.
+
+
+**Object**: An instance of a class. Objects have attributes and behavior as defined by the class.
+
+Attribute: A variable that belongs to a class or an instance of a class.
+
+Method: A function that is defined inside a class and operates on instances of that class.
